@@ -1,0 +1,26 @@
+    #container	{ position: relative; margin-left: auto; margin-right: auto; width: 760px; text-align: left; }
+    
+    /* Table Grid  ----------------------------------*/
+    #dataTable { font-size: 80%; }
+    
+    .ui-grid { width: 98%; padding: .5em; background-image: none; }
+    .ui-state-default { padding: .4em; }
+    .ui-grid .ui-grid-content { width: 100%; border-collapse: collapse; }
+    .ui-grid .ui-grid-header, .ui-grid .ui-grid-footer { padding: .8em .4em; text-align: right; }
+    .ui-grid .ui-grid-footer { background-image: none; font-weight: normal; text-align: left; }
+    .ui-grid table thead a { display: block;  }
+    .ui-grid .ui-icon { float: right; }
+    .ui-grid .ui-grid-paging { float: right; }
+    .ui-grid .ui-grid-paging-prev { float: left; width: 16px; height: 16px; }
+    .ui-grid .ui-grid-paging-next { float: right; width: 16px; height: 16px; }
+    .ui-grid .ui-grid-results {  }
+
+    .header-right { float:right; }
+    .header-left { float:left; }
+
+    .cStoreDataTable tr:hover { background-color: #D1DFEB; cursor:pointer; }
+    .cStoreDataTable tr { border-bottom:1px #ccc dotted; }
+
+    .leftcolumn { width: 500px; float: left; }
+    .rightcolumn { width: 60px; float: right; }
+
