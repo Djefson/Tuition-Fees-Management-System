@@ -22,11 +22,14 @@ The project is errors free right now.
 3.2.Technological  Tools   
 3.2.1 XAMPP  - Platform of Web Development
 WAMPSERVER are used for the applications that would be executed on the web server. WAMP is a platform of web development, permitting to make functions locally (without connecting to an external server) of the PHP scripts. WAMP is not it self a Software but an environment understanding two servers (a web server APACHE and a database server MYSQL), a PHP Script interpreter as well as SQL Administrator (PHPMYADMIN).
+
 3.2.2.	Apache Server 2.2.11
 The Apache HTTP Server, commonly referred to as Apache is web server software notable for playing a key role in the initial growth of the World Wide Web and for today Apache server is PHP, MySQL, WampServer ,XAMPP, and so on. Apache is a server used as local to make our web site. Server is known as a computer or device on a network that manages network resources. 
+
 3.2.3.Programming Languages  and Script Language
 PHP 5.3.0
 The PHP Hypertext Preprocessor allows web developers to create dynamic content that interacts with databases. PHP applications are normally found on Linux servers and in conjunction with MySQL databases. PHP is a script language and interpreter that is used primarily for making this web application of Tuition Fees Management System.3.9.6 [12] .
+
 HTML 5
 HTML5 is a markup language for structuring and presenting content for the World Wide Web and a core technology of the Internet. It is the fifth revision of the HTML standard (created in 1990 and standardized as HTML4 as of 1997) Its core aims have been to improve the language with support for the latest multimedia while keeping it easily readable by humans and consistently understood by computers and detailed processing models to encourage more interoperable implementations; it extends, improves and rationalizes the markup available for documents, and introduces markup and application programming interfaces (APIs) for complex web applications. In particular, HTML5 adds many new syntactic features. These include the new <video>, <audio> and <canvas> elements, as well as the integration of scalable vector graphics (SVG) content (that replaces the uses of generic <object> tags)  [13] . So  in our project HTML 5  has helped us  to make  the  very clear  design template of  platform  web  application we had  used  in  our  project as   a  background style sheet , this one  it has  a simple linked tabs or  menus related  to their  forms   , each  one  has  their  contents  which  need  to  be  edited  according the  programmer  or   the developer  desire.
 Jquery 
