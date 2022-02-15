@@ -29,10 +29,8 @@ The Apache HTTP Server,  Apache is a server used as local to make our web site. 
 - PHP 5.3.0
 PHP is a script language and interpreter that is used primarily for making this web application of Tuition Fees Management System.3.9.6 [12] .
 
-
 - HTML5  HTML5 adds many new syntactic features. These include the new <video>, <audio> and <canvas> elements, as well as the integration of scalable vector graphics (SVG) content (that replaces the uses of generic <object> tags).
   
- 
 - JQuery is a multi-browser JavaScript library designed to simplify the client-side scripting of HTML. 
 - CSS 3
 CSS3 are a presentational effect which allow property changes in CSS values, including background-color, width, height, opacity, and many more. The  CSS3 code  in our  implementation had  allowed us  as  web masters  to take  the  measures  and  color  and  the  format you  can  use  in implementing  and  designing  the  web  application  .
