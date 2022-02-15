@@ -18,7 +18,6 @@ The project is errors free right now.
 ![tuition 11](https://user-images.githubusercontent.com/58703612/107620711-6ce68a00-6c55-11eb-9d6f-8f4d207a5dbe.png)
 ![tuition12](https://user-images.githubusercontent.com/58703612/107620718-707a1100-6c55-11eb-972c-aa91b8f81904.png)
 
-
 - Technological  Tools   
 XAMPP  - Platform of Web Development
 WAMPSERVER are used for the applications that would be executed on the web server. (a web server APACHE and a database server MYSQL), a PHP Script interpreter as well as SQL Administrator (PHPMYADMIN).
@@ -41,3 +40,9 @@ MySQL database allows us to create a relational database structure on a web-serv
 - Javascript
 JavaScript is a programming language used to make web pages interactive. 
 JavaScript is use the Scripts in computer programming, and a script is a program or sequence of instructions that is interpreted or carried out by another program rather than by the computer processor. In general, script languages are easier and faster to code than the more structured and compiled languages it is reason why we have preferred this one to carry out this project  . 
+
+  
+  
+  
+  
+  
