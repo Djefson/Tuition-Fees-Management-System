@@ -40,9 +40,3 @@ MySQL database allows us to create a relational database structure on a web-serv
 - Javascript
 JavaScript is a programming language used to make web pages interactive. 
 JavaScript is use the Scripts in computer programming, and a script is a program or sequence of instructions that is interpreted or carried out by another program rather than by the computer processor. In general, script languages are easier and faster to code than the more structured and compiled languages it is reason why we have preferred this one to carry out this project  . 
-
-  
-  
-  
-  
-  
