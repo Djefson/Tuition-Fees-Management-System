@@ -1,13 +1,11 @@
 # Tuition-Fees-Management-System
 The project  is in PHP and My Sql
-
-# Tuition-Fees-Management-System
 This project  is in PHP and My Sql
 To run and execute this project there is a couple of tools needed such as:- Xampp,pdf reader for vewing all reports,foundation and bootstrap as a CSS library  .
 If any body miss some files due to insuficienct uploading please contact the developer in person to complete the missing files.
 The project is errors free right now.
 
-
+#GUI AND REPORTS
 ![tuition  1](https://user-images.githubusercontent.com/58703612/107620614-458fbd00-6c55-11eb-84e0-92fc99e79372.png)
 ![tuition2](https://user-images.githubusercontent.com/58703612/107620624-488aad80-6c55-11eb-82c6-25abdb472510.png)
 ![tuition3](https://user-images.githubusercontent.com/58703612/107620633-4b859e00-6c55-11eb-8bbc-9169110a04b0.png)
