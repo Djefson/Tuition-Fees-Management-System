@@ -7,7 +7,7 @@ To run and execute this project there is a couple of tools needed such as:- Xamp
 If any body miss some files due to insuficienct uploading please contact the developer in person to complete the missing files.
 The project is errors free right now.
 
-![image](https://user-images.githubusercontent.com/58703612/154074883-6a883eeb-fa35-472b-a861-e13247e044a6.png)
+
 ![tuition  1](https://user-images.githubusercontent.com/58703612/107620614-458fbd00-6c55-11eb-84e0-92fc99e79372.png)
 ![tuition2](https://user-images.githubusercontent.com/58703612/107620624-488aad80-6c55-11eb-82c6-25abdb472510.png)
 ![tuition3](https://user-images.githubusercontent.com/58703612/107620633-4b859e00-6c55-11eb-8bbc-9169110a04b0.png)
